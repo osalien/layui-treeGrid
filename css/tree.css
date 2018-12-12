@@ -1,0 +1,29 @@
+ body .layui-tree-skin-shihuang .layui-tree-branch {
+            font-family: "iconfont" !important;
+            font-size: 16px;
+            font-style: normal;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+           
+        } 
+
+/* 
+
+        body .layui-tree-skin-shihuang .layui-tree-branch{
+            width: 16px;
+           display: inline-block;
+           overflow: hidden;
+           vertical-align: -8px;
+        }
+        
+         .layui-tree-branch:before, .layui-tree-branchH:before {
+           content: "\e625";
+       }
+       .layui-tree-branchH:before { content: "\e606"; } 
+
+
+ */
+
+
+
+
